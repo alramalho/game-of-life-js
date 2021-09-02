@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+canvas {
+  border: 1px solid black;
+
+}
+.buttons{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  /*bottom: 0;*/
+}
+.buttons button {
+  position: absolute;
+}
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+}
